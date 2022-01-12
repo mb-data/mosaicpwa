@@ -70,7 +70,7 @@ self.addEventListener("install", (event) => {
 			//homepagePath + "/assets/files/mpasto.pdf",
 			//homepagePath + "/assets/files/foscalcio.pdf",
 			//homepagePath + "/assets/files/basica-pro.pdf",
-			homepagePath + "/assets/images/qrcode.jpg",
+			homepagePath + "/assets/images/qrcode.jpeg",
 			homepagePath + "/assets/images/aspire.png",
 			homepagePath + "/assets/images/background-opacity.jpg",
 			homepagePath + "/assets/images/background.jpg",
