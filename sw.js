@@ -95,6 +95,7 @@ self.addEventListener("install", (event) => {
 			homepagePath + "/assets/images/performa-plus.png",
 			homepagePath + "/assets/images/performa-ultra.png",
 			homepagePath + "/assets/images/sprite.png",
+			homepagePath + "/assets/images/sprite-lg.png",
 			homepagePath + "/assets/images/sprite-sm.png",
 			homepagePath + "/pdf/web/viewer.html",
 			homepagePath + "/favicon.ico",
